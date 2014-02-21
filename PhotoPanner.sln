@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoPanner", "PhotoPanner\PhotoPanner.csproj", "{DA097D08-F70D-4DAD-B533-5AD0E4360FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA097D08-F70D-4DAD-B533-5AD0E4360FB1}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{DA097D08-F70D-4DAD-B533-5AD0E4360FB1}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{DA097D08-F70D-4DAD-B533-5AD0E4360FB1}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{DA097D08-F70D-4DAD-B533-5AD0E4360FB1}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{DA097D08-F70D-4DAD-B533-5AD0E4360FB1}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DA097D08-F70D-4DAD-B533-5AD0E4360FB1}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DA097D08-F70D-4DAD-B533-5AD0E4360FB1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DA097D08-F70D-4DAD-B533-5AD0E4360FB1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DA097D08-F70D-4DAD-B533-5AD0E4360FB1}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DA097D08-F70D-4DAD-B533-5AD0E4360FB1}.Release|iPhone.Build.0 = Release|iPhone
+		{DA097D08-F70D-4DAD-B533-5AD0E4360FB1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DA097D08-F70D-4DAD-B533-5AD0E4360FB1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PhotoPanner\PhotoPanner.csproj
+	EndGlobalSection
+EndGlobal
